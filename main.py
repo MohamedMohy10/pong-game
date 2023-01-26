@@ -49,7 +49,7 @@ while game_on:
 
     # Optional : exit when a player reaches a score 10
     """ if winner:
-        game_on = False """
+            game_on = False """
 
 
 
