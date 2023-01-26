@@ -24,6 +24,8 @@ class Score(Turtle):
         self.lscore += 1
         self.print_score()
         
-    def winner:
+    def winner: # Optional 
         if rscore == 10 or lscore == 10 :
             return True
+        
+        
