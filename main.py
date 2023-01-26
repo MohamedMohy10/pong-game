@@ -47,9 +47,9 @@ while game_on:
         score.rpoint() # add a point to the right player
         ball.reset_position()
 
-
-
-    # game_on = False
+    # Optional : exit when a player reaches a score 10
+    """ if winner:
+        game_on = False """
 
 
 
