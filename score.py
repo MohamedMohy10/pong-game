@@ -23,3 +23,7 @@ class Score(Turtle):
     def lpoint(self):
         self.lscore += 1
         self.print_score()
+        
+    def winner:
+        if rscore == 10 or lscore == 10 :
+            return True
