@@ -48,7 +48,7 @@ while game_on:
         ball.reset_position()
 
     # Optional : exit when a player reaches a score 10
-    """ if winner:
+    """ if score.winner():
             game_on = False """
 
 
